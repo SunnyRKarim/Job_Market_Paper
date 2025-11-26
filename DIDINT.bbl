@@ -1,0 +1,151 @@
+\begin{thebibliography}{28}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[{Abadie(2005)}]{abadie2005semiparametric}
+Abadie, A. (2005) \enquote{Semiparametric difference-in-differences
+  estimators,} \emph{The review of economic studies} 72(1), 1--19
+
+\bibitem[{Bertrand et~al.(2004)Bertrand, Duflo, and
+  Mullainathan}]{bertrand2004much}
+Bertrand, M., E.~Duflo, and S.~Mullainathan (2004) \enquote{How much should we
+  trust differences-in-differences estimates?,} \emph{The Quarterly journal of
+  economics} 119(1), 249--275
+
+\bibitem[{Borusyak and Jaravel(2017)}]{borusyak2017revisiting}
+Borusyak, K., and X.~Jaravel (2017) \enquote{Revisiting event study designs,}
+  \emph{Available at SSRN 2826228}
+
+\bibitem[{Borusyak et~al.(2024)Borusyak, Jaravel, and
+  Spiess}]{borusyak2024revisiting}
+Borusyak, K., X.~Jaravel, and J.~Spiess (2024) \enquote{Revisiting event-study
+  designs: robust and efficient estimation,} \emph{Review of Economic Studies}
+  91(6), 3253--3285
+
+\bibitem[{Bray(2025)}]{bray2025bearspaw}
+Bray, B. (2025) \enquote{Estimating the effectiveness of the city of
+  calgary’s response to the bearspaw south feeder main rupture,} Mimeo
+
+\bibitem[{Caetano and Callaway(2024)}]{caetano2024PTholds}
+Caetano, C., and B.~Callaway (2024) \enquote{Difference-in-differences when
+  parallel trends holds conditional on covariates,} \emph{arXiv preprint
+  arXiv:2406.15288}
+
+\bibitem[{Caetano et~al.(2022)Caetano, Callaway, Payne, and
+  Rodrigues}]{caetano2022timevarying}
+Caetano, C., B.~Callaway, S.~Payne, and H.~S. Rodrigues (2022)
+  \enquote{Difference in differences with time-varying covariates,} \emph{arXiv
+  preprint arXiv:2202.02903}
+
+\bibitem[{Callaway and Sant’Anna(2021)}]{callaway2021difference}
+Callaway, B., and P.~H. Sant’Anna (2021) \enquote{Difference-in-differences
+  with multiple time periods,} \emph{Journal of Econometrics} 225(2), 200--230
+
+\bibitem[{Card et~al.(2024)Card, Rothstein, and Yi}]{card2024industry}
+Card, D., J.~Rothstein, and M.~Yi (2024) \enquote{Industry wage differentials:
+  A firm-based approach,} \emph{Journal of Labor Economics} 42(S1), S11--S59
+
+\bibitem[{De~Chaisemartin and d’Haultfoeuille(2020a)}]{de2020twott}
+De~Chaisemartin, C., and X.~d’Haultfoeuille (2020a) \enquote{Two-way fixed
+  effects estimators with heterogeneous treatment effects,} \emph{American
+  Economic Review} 110(9), 2964--2996
+
+\bibitem[{De~Chaisemartin and d’Haultfoeuille(2023)}]{de2023prooftwfe}
+---{}---{}--- (2023) \enquote{Two-way fixed effects and
+  differences-in-differences with heterogeneous treatment effects: A survey,}
+  \emph{The Econometrics Journal} 26(3), C1--C30
+
+\bibitem[{Deb et~al.(2024)Deb, Norton, Wooldridge, and Zabel}]{deb2024flexible}
+Deb, P., E.~C. Norton, J.~M. Wooldridge, and J.~E. Zabel (2024) \enquote{A
+  flexible, heterogeneous treatment effects difference-in-differences estimator
+  for repeated cross-sections,} Technical report, National Bureau of Economic
+  Research
+
+\bibitem[{Denning et~al.(2022)Denning, Eide, Mumford, Patterson, and
+  Warnick}]{denning2022have}
+Denning, J.~T., E.~R. Eide, K.~J. Mumford, R.~W. Patterson, and M.~Warnick
+  (2022) \enquote{Why have college completion rates increased?,} \emph{American
+  Economic Journal: Applied Economics} 14(3), 1--29
+
+\bibitem[{Fortin(2006)}]{fortin2006higher}
+Fortin, N.~M. (2006) \enquote{Higher-education policies and the college wage
+  premium: Cross-state evidence from the 1990s,} \emph{American Economic
+  Review} 96(4), 959--987
+
+\bibitem[{Goodman-Bacon(2021)}]{goodman2021difference}
+Goodman-Bacon, A. (2021) \enquote{Difference-in-differences with variation in
+  treatment timing,} \emph{Journal of Econometrics} 225(2), 254--277
+
+\bibitem[{Heckman et~al.(1997)Heckman, Ichimura, and
+  Todd}]{heckman1997matching}
+Heckman, J.~J., H.~Ichimura, and P.~E. Todd (1997) \enquote{Matching as an
+  econometric evaluation estimator: Evidence from evaluating a job training
+  programme,} \emph{The review of economic studies} 64(4), 605--654
+
+\bibitem[{Horowitz(2018)}]{horowitz2018relative}
+Horowitz, J. (2018) \enquote{Relative education and the advantage of a college
+  degree,} \emph{American Sociological Review} 83(4), 771--801
+
+\bibitem[{Karim et~al.(2025{\natexlab{a}})Karim, Strumpf, Austin, and
+  Webb}]{karim2025policy}
+Karim, S., E.~Strumpf, N.~Austin, and M.~Webb (2025{\natexlab{a}})
+  \enquote{Which policy works and where? estimation and inference of state
+  level treatment effects using difference-in-differences,} in \emph{Slides
+  presented at the Canadian Economics Association Annual Conference, accessed
+  July}, volume~11, p. 2025
+
+\bibitem[{Karim et~al.(2025{\natexlab{b}})Karim, Strumpf, Austin, and
+  Webb}]{karim2025slides}
+Karim, S., E.~Strumpf, N.~Austin, and M.~D. Webb (2025{\natexlab{b}})
+  \enquote{Which policy works and where? estimation and inference of state
+  level treatment effects using difference-in-differences,} Slides presented at
+  the Canadian Economics Association Annual Conference, accessed July 11, 2025
+
+\bibitem[{Karim et~al.(2024)Karim, Webb, Austin, and
+  Strumpf}]{karim2024difference}
+Karim, S., M.~D. Webb, N.~Austin, and E.~Strumpf (2024)
+  \enquote{Difference-in-differences with unpoolable data,} \emph{arXiv
+  preprint arXiv:2403.15910}
+
+\bibitem[{Mincer(1958)}]{mincer1958investment}
+Mincer, J. (1958) \enquote{Investment in human capital and personal income
+  distribution,} \emph{Journal of political economy} 66(4), 281--302
+
+\bibitem[{O’Neill et~al.(2016)O’Neill, Kreif, Grieve, Sutton, and
+  Sekhon}]{o2016estimating}
+O’Neill, S., N.~Kreif, R.~Grieve, M.~Sutton, and J.~S. Sekhon (2016)
+  \enquote{Estimating causal effects: considering three alternatives to
+  difference-in-differences estimation,} \emph{Health Services and Outcomes
+  Research Methodology} 16, 1--21
+
+\bibitem[{Rambachan and Roth(2023)}]{rambachan2023more}
+Rambachan, A., and J.~Roth (2023) \enquote{A more credible approach to parallel
+  trends,} \emph{Review of Economic Studies} 90(5), 2555--2591
+
+\bibitem[{Rios-Avila et~al.(2021)Rios-Avila, Sant'Anna, and
+  Callaway}]{RePEc:boc:bocode:s458976}
+Rios-Avila, F., P.~H. Sant'Anna, and B.~Callaway (2021) \enquote{{CSDID: Stata
+  module for the estimation of Difference-in-Difference models with multiple
+  time periods},} Statistical Software Components, Boston College Department of
+  Economics
+
+\bibitem[{Roodman(2025)}]{Roodman_Julia}
+Roodman, D. (2025) \enquote{Julia as a universal platform for statistical
+  software development,} \emph{The Stata Journal} 25(2), 255--284
+
+\bibitem[{Roth et~al.(2022)Roth, Sant'Anna, Bilinski, and Poe}]{roth2022s}
+Roth, J., P.~H. Sant'Anna, A.~Bilinski, and J.~Poe (2022) \enquote{What's
+  trending in difference-in-differences? a synthesis of the recent econometrics
+  literature,} \emph{arXiv preprint arXiv:2201.01194}
+
+\bibitem[{Sant’Anna and Zhao(2020)}]{sant2020doubly}
+Sant’Anna, P.~H., and J.~Zhao (2020) \enquote{Doubly robust
+  difference-in-differences estimators,} \emph{Journal of Econometrics} 219(1),
+  101--122
+
+\bibitem[{Sun and Abraham(2021)}]{sun2021estimating}
+Sun, L., and S.~Abraham (2021) \enquote{Estimating dynamic treatment effects in
+  event studies with heterogeneous treatment effects,} \emph{Journal of
+  Econometrics} 225(2), 175--199
+
+\end{thebibliography}
